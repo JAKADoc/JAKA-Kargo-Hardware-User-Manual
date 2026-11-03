@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, JAKA Robotics
+# This file is distributed under the same license as the JAKA Kargo 硬件用户手册
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JAKA Kargo 硬件用户手册 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-03 10:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/03_手册概述.rst:4
+msgid "手册概述"
+msgstr "マニュアルの概要"
+
+#: ../../source/03_手册概述.rst:9
+msgid "关于本手册"
+msgstr "本マニュアルについて"
+
+#: ../../source/03_手册概述.rst:11
+msgid "本手册包含以下内容："
+msgstr "本マニュアルには、以下の内容が記載されています。"
+
+#: ../../source/03_手册概述.rst:13
+msgid "JAKA |product_name| 机器人的使用注意事项"
+msgstr "JAKA |product_name| ロボットの使用上の注意事項"
+
+#: ../../source/03_手册概述.rst:14
+msgid "JAKA |product_name| 机器人的安装与调试"
+msgstr "JAKA |product_name| ロボットの設置と調整"
+
+#: ../../source/03_手册概述.rst:15
+msgid "JAKA |product_name| 机器人的清洁与维护"
+msgstr "JAKA |product_name| ロボットの清掃と保守"
+
+#: ../../source/03_手册概述.rst:20
+msgid "手册阅读对象"
+msgstr "対象読者"
+
+#: ../../source/03_手册概述.rst:22
+msgid "本手册面向："
+msgstr "本マニュアルは、以下の担当者を対象としています。"
+
+#: ../../source/03_手册概述.rst:24
+msgid "安装人员"
+msgstr "設置担当者"
+
+#: ../../source/03_手册概述.rst:25
+msgid "调试人员"
+msgstr "調整担当者"
+
+#: ../../source/03_手册概述.rst:26
+msgid "维护人员"
+msgstr "保守担当者"
+
+#: ../../source/03_手册概述.rst:27
+msgid "集成商"
+msgstr "インテグレーター"
+
+#: ../../source/03_手册概述.rst:32
+msgid "参考信息"
+msgstr "参考情報"
+
+#: ../../source/03_手册概述.rst:34
+msgid "本手册中引用的文档："
+msgstr "本マニュアルで参照している文書："
+
+#: ../../source/03_手册概述.rst:36
+msgid "JAKA |软件| 软件用户手册"
+msgstr "JAKA |软件| ソフトウェアユーザーマニュアル"
+
+#: ../../source/03_手册概述.rst:37
+msgid "JAKA K1 硬件用户手册"
+msgstr "JAKA K1 ハードウェアユーザーマニュアル"
+
+#: ../../source/03_手册概述.rst:41
+msgid "以上文档可从 `JAKA 官网 <https://www.jaka.com>`__ 获得。"
+msgstr "上記の文書は、`JAKA公式サイト <https://www.jaka.com>`__ から入手できます。"
+
+#: ../../source/03_手册概述.rst:46
+msgid "人员要求"
+msgstr "担当者の要件"
+
+#: ../../source/03_手册概述.rst:48
+msgid "本手册面向用户应："
+msgstr "本マニュアルの対象者は、次の要件を満たす必要があります。"
+
+#: ../../source/03_手册概述.rst:50
+msgid "接受过 JAKA 培训，并具备机械、电气安装、维修与维护所需的知识。"
+msgstr "JAKAのトレーニングを受け、機械・電気の設置、修理および保守に必要な知識を有していること。"
+
+#: ../../source/03_手册概述.rst:51
+msgid "接受过应对紧急情况和异常情况的培训。"
+msgstr "緊急時および異常時の対応について訓練を受けていること。"
+

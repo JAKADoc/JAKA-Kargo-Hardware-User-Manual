@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, JAKA Robotics
+# This file is distributed under the same license as the JAKA Kargo 硬件用户手册
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JAKA Kargo 硬件用户手册 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-03 10:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/06 系统概述.rst:4
+msgid "系统概述"
+msgstr "システム概要"
+
+#: ../../source/06 系统概述.rst:9
+msgid "系统概览"
+msgstr "システム構成"
+
+#: ../../source/06 系统概述.rst:11
+msgid "JAKA Kargo人形轮式机器人由以下部件组成。"
+msgstr "JAKA Kargo車輪型ヒューマノイドロボットは、以下の部品で構成されています。"
+
+#: ../../source/06 系统概述.rst:17
+msgid "Kargo部件组成"
+msgstr "Kargoの構成部品"
+
+#: ../../source/06 系统概述.rst:20
+msgid "机器人头部：由一台3D相机组成，支持俯仰范围为–20~45°。"
+msgstr "ロボットの頭部：3Dカメラ1台で構成され、俯仰範囲は–20～45°です。"
+
+#: ../../source/06 系统概述.rst:21
+msgid "机器人颈部：支持旋转范围为±90°。"
+msgstr "ロボットの首部：回転範囲は±90°です。"
+
+#: ../../source/06 系统概述.rst:22
+msgid "机器人手臂：由两台七轴机械臂组成，臂展为760mm，负载为5kg。"
+msgstr "ロボットアーム：7軸ロボットアーム2台で構成され、リーチは760 mm、可搬質量は5 kgです。"
+
+#: ../../source/06 系统概述.rst:23
+msgid "机器人腰部：由一个俯仰结构和一台3D相机组成，支持俯仰范围为0~90°。"
+msgstr "ロボットの腰部：俯仰機構と3Dカメラ1台で構成され、俯仰範囲は0～90°です。"
+
+#: ../../source/06 系统概述.rst:24
+msgid "升降机构：其上有一块控制面板，若干指示灯，一个急停按钮和若干控制按钮组成，支持升降范围为0~780mm。"
+msgstr "昇降機構：操作パネル、複数のインジケーター、非常停止ボタンおよび操作ボタンを備えています。昇降範囲は0～780 mmです。"
+
+#: ../../source/06 系统概述.rst:25
+msgid "移动底盘：由双舵轮驱动，额定载重50kg。"
+msgstr "移動台車：2つのステアリングホイールで駆動し、定格積載質量は50 kgです。"
+
+#: ../../source/06 系统概述.rst:30
+msgid "部件概览"
+msgstr "各部の概要"
+
+#: ../../source/06 系统概述.rst:32
+msgid "Kargo机器人头、颈、腰部具有4个自由度，支持俯仰和旋转，用于识别物体、增加机械臂运动范围和方向。包括以下部件："
+msgstr "Kargoの頭部、首部および腰部は合計4自由度を備え、俯仰・回転します。物体の認識やロボットアームの可動範囲・方向の拡張に使用します。構成部品は以下のとおりです。"
+
+#: ../../source/06 系统概述.rst:34
+msgid "3D深度相机（ :ref:`3D深度相机` ）"
+msgstr "3D深度カメラ（ :ref:`3D深度相机` ）"
+
+#: ../../source/06 系统概述.rst:35 系统概述.rst:60
+msgid "指示灯（ :ref:`指示灯` ）"
+msgstr "インジケーター（ :ref:`指示灯` ）"
+
+#: ../../source/06 系统概述.rst:37
+msgid "Kargo机器人手臂由两台七轴机械臂组成，在末端法兰外侧配有两个按钮。"
+msgstr "Kargoのロボットアームは7軸ロボットアーム2台で構成され、エンドフランジの外側にボタンが2つあります。"
+
+#: ../../source/06 系统概述.rst:43
+msgid "Kargo手臂"
+msgstr "Kargoロボットアーム"
+
+#: ../../source/06 系统概述.rst:46
+msgid "**1** 底座"
+msgstr "**1** ベース"
+
+#: ../../source/06 系统概述.rst:47
+msgid "**2** 关节1"
+msgstr "**2** 関節1"
+
+#: ../../source/06 系统概述.rst:48
+msgid "**3** 关节2"
+msgstr "**3** 関節2"
+
+#: ../../source/06 系统概述.rst:49
+msgid "**4** 关节3"
+msgstr "**4** 関節3"
+
+#: ../../source/06 系统概述.rst:50
+msgid "**5** 关节4"
+msgstr "**5** 関節4"
+
+#: ../../source/06 系统概述.rst:51
+msgid "**6** 关节5"
+msgstr "**6** 関節5"
+
+#: ../../source/06 系统概述.rst:52
+msgid "**7** 关节6"
+msgstr "**7** 関節6"
+
+#: ../../source/06 系统概述.rst:53
+msgid "**8** 关节7"
+msgstr "**8** 関節7"
+
+#: ../../source/06 系统概述.rst:54
+msgid "**9** 末端法兰"
+msgstr "**9** エンドフランジ"
+
+#: ../../source/06 系统概述.rst:55
+msgid "**10** 末端法兰按钮（具体参考 :ref:`末端法兰按钮` ）"
+msgstr "**10** エンドフランジボタン（詳細は :ref:`末端法兰按钮` を参照）"
+
+#: ../../source/06 系统概述.rst:56
+msgid "**11** 工具I/O接口及EtherCAT接口，（具体参考 :ref:`工具I/O接口` ）"
+msgstr "**11** ツールI/OインターフェースおよびEtherCATインターフェース（詳細は :ref:`工具I/O接口` を参照）"
+
+#: ../../source/06 系统概述.rst:58
+msgid "Kargo升降机构用于增加Kargo的运动范围、控制Kargo机器人运动和开关机。包括以下部件："
+msgstr "Kargoの昇降機構は、Kargoの可動範囲を広げ、ロボットの動作および電源を制御します。以下の部品で構成されています。"
+
+#: ../../source/06 系统概述.rst:61
+msgid "急停按钮、功能按钮（ :ref:`按钮` ）"
+msgstr "非常停止ボタン、機能ボタン（ :ref:`按钮` ）"
+
+#: ../../source/06 系统概述.rst:62
+msgid "控制面板（ :ref:`控制面板` ）"
+msgstr "操作パネル（ :ref:`控制面板` ）"
+
+#: ../../source/06 系统概述.rst:63
+msgid "用户接口（ :ref:`用户接口` ）"
+msgstr "ユーザーインターフェース（ :ref:`用户接口` ）"
+
+#: ../../source/06 系统概述.rst:65
+msgid "Kargo机器人移动底盘用于实现复合机器人的自主移动。包括以下部件："
+msgstr "Kargoの移動台車は、複合ロボットの自律移動を実現します。以下の部品で構成されています。"
+
+#: ../../source/06 系统概述.rst:67
+msgid "激光雷达（ :ref:`激光雷达` ）"
+msgstr "LiDAR（ :ref:`激光雷达` ）"
+
+#: ../../source/06 系统概述.rst:68
+msgid "安全触边（ :ref:`安全触边` ）"
+msgstr "セーフティエッジ（ :ref:`安全触边` ）"
+
+#: ../../source/06 系统概述.rst:69
+msgid "电源接口（ :ref:`电气连接` ）"
+msgstr "電源インターフェース（ :ref:`电气连接` ）"
+
+#: ../../source/06 系统概述.rst:70
+msgid "电池仓（ :ref:`更换电池` ）"
+msgstr "バッテリー収納部（ :ref:`更换电池` ）"
+

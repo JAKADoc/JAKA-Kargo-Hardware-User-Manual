@@ -1,0 +1,14 @@
+﻿引脚,COM1,,,COM2,,,说明
+,RS232,RS485,RS422,RS422,RS485,RS232,
+1,,D-A,TX-,,,,COM1: RS485_D- / RS422_TX-
+2,,,,TX-,D-,,COM2: RS485_D- / RS422_TX-
+3,,D+B,TX+,,,,COM1: RS485_D+ / RS422_TX+
+4,,,,TX+,D+,,COM2: RS485_D+ / RS422_TX+
+5,TX,,RX+,,,,COM1: RS232_TX / RS422_RX+
+6,,,,RX+,,TX,COM2: RS232_TX / RS422_RX+
+7,,,RX-,,,,COM1: RS422_RX-
+8,,,,RX-,,,COM2: RS422_RX-
+9&10&13,GND,,,,,,GND，串口电源负极
+11&12,5V,,,,,,5V，串口电源正极
+14,Remote ON/OFF,,,,,,工控机远程开关机信号，短接GND时触发开机，持续3s以上关机
+15&16,NC,,,,,,预留

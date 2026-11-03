@@ -1,0 +1,34 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, JAKA Robotics
+# This file is distributed under the same license as the JAKA Kargo 硬件用户手册
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JAKA Kargo 硬件用户手册 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-03 10:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/02 前言.rst:2
+msgid "前言"
+msgstr "はじめに"
+
+#: ../../source/02 前言.rst:4
+msgid ""
+"JAKA Kargo是轮式人形机器人，专为工业场景中高柔性作业设计。 其仿生双臂各具备7自由度，全身共21自由度，可覆盖0–2m垂直作业空间，实现类人复杂动作。 "
+"集成激光雷达、AI视觉传感器与六维力传感器，构建多模态感知系统，实现毫秒级环境感知与智能避障，保障人机协作安全。 支持快速部署与基于强化学习的模型持续演进，适应快速换产需求。 "
+"依托JAKA成熟协作机器人平台，Kargo兼具高可靠性、易用性与丰富生态接口，助力企业实现降本增效与智能化升级。"
+msgstr ""
+"JAKA Kargoは、産業現場での柔軟性の高い作業向けに設計された車輪型ヒューマノイドロボットです。人間の腕を模した両腕はそれぞれ7自由度を備え、全身で21自由度を持ち、垂直方向に0～2 "
+"mの作業範囲をカバーして人間のような複雑な動作を実現します。LiDAR、AIビジョンセンサー、6軸力覚センサーを統合したマルチモーダル知覚システムにより、ミリ秒単位で周囲環境を認識して障害物を回避し、人とロボットの協働を安全に行えます。迅速な導入に対応し、強化学習に基づくモデルを継続的に進化させることで、頻繁な生産切り替えにも適応します。JAKAの実績ある協働ロボットプラットフォームを基盤とし、高い信頼性、使いやすさ、豊富なエコシステムインターフェースを備え、企業のコスト削減、生産性向上、スマート化を支援します。"
+

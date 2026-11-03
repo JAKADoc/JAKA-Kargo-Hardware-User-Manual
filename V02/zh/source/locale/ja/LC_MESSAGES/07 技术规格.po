@@ -1,0 +1,1752 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, JAKA Robotics
+# This file is distributed under the same license as the JAKA Kargo 硬件用户手册
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JAKA Kargo 硬件用户手册 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-03 10:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/07 技术规格.rst:4
+msgid "技术规格"
+msgstr "技術仕様"
+
+#: ../../source/07 技术规格.rst:9 技术规格.rst:11
+msgid "技术参数"
+msgstr "仕様一覧"
+
+#: ../../source/tables/techparas.csv:1 ../../source/tables/充电器参数.csv:1
+msgid "项目"
+msgstr "項目"
+
+#: ../../source/tables/techparas.csv:1 ../../source/tables/充电器参数.csv:1
+msgid "规格"
+msgstr "仕様"
+
+#: ../../source/tables/techparas.csv:1
+msgid "基础参数"
+msgstr "基本仕様"
+
+#: ../../source/tables/techparas.csv:1
+msgid "最大载荷"
+msgstr "最大可搬質量"
+
+#: ../../source/tables/techparas.csv:1
+msgid "50kg"
+msgstr "50kg"
+
+#: ../../source/tables/techparas.csv:1
+msgid "重量"
+msgstr "質量"
+
+#: ../../source/tables/techparas.csv:1
+msgid "250kg"
+msgstr "250kg"
+
+#: ../../source/tables/techparas.csv:1
+msgid "材质"
+msgstr "材質"
+
+#: ../../source/tables/techparas.csv:1
+msgid "6060-T6/Q235/ABS"
+msgstr "6060-T6/Q235/ABS"
+
+#: ../../source/tables/techparas.csv:1
+msgid "底盘外形尺寸（长度×宽度×高度）"
+msgstr "台車外形寸法（長さ×幅×高さ）"
+
+#: ../../source/tables/techparas.csv:1
+msgid "841*641*313mm"
+msgstr "841*641*313mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "升降柱外形尺寸（长度×宽度×高度）"
+msgstr "昇降柱外形寸法（長さ×幅×高さ）"
+
+#: ../../source/tables/techparas.csv:1
+msgid "841*641*1750mm"
+msgstr "841*641*1750mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "底盘负载面尺寸"
+msgstr "台車積載面寸法"
+
+#: ../../source/tables/techparas.csv:1
+msgid "350*250mm"
+msgstr "350*250mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "头部俯仰范围"
+msgstr "頭部の俯仰範囲"
+
+#: ../../source/tables/techparas.csv:1
+msgid "–20~45°"
+msgstr "–20~45°"
+
+#: ../../source/tables/techparas.csv:1
+msgid "颈部旋转范围"
+msgstr "首部の回転範囲"
+
+#: ../../source/tables/techparas.csv:1
+msgid "±90°"
+msgstr "±90°"
+
+#: ../../source/tables/techparas.csv:1
+msgid "身体俯仰范围"
+msgstr "胴体の俯仰範囲"
+
+#: ../../source/tables/techparas.csv:1
+msgid "0~90°"
+msgstr "0~90°"
+
+#: ../../source/tables/techparas.csv:1
+msgid "升降机构升降范围"
+msgstr "昇降機構の昇降範囲"
+
+#: ../../source/tables/techparas.csv:1
+msgid "0~780mm"
+msgstr "0~780mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "底盘离地间隙"
+msgstr "台車の最低地上高"
+
+#: ../../source/tables/techparas.csv:1
+msgid "40mm"
+msgstr "40mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "驱动类型"
+msgstr "駆動方式"
+
+#: ../../source/tables/techparas.csv:1
+msgid "双舵轮驱动"
+msgstr "2輪ステアリング駆動"
+
+#: ../../source/tables/techparas.csv:1
+msgid "导航方式"
+msgstr "ナビゲーション方式"
+
+#: ../../source/tables/techparas.csv:1
+msgid "前后双激光SLAM导航"
+msgstr "前後2台のLiDARによるSLAMナビゲーション"
+
+#: ../../source/tables/techparas.csv:1
+msgid "控制方式"
+msgstr "制御方式"
+
+#: ../../source/tables/techparas.csv:1
+msgid "JAKA Coboπ软件；SDK"
+msgstr "JAKA Coboπソフトウェア、SDK"
+
+#: ../../source/tables/techparas.csv:1
+msgid "平均功率"
+msgstr "平均消費電力"
+
+#: ../../source/tables/techparas.csv:1
+msgid "1600W"
+msgstr "1600W"
+
+#: ../../source/tables/techparas.csv:1
+msgid "最大功率"
+msgstr "最大消費電力"
+
+#: ../../source/tables/techparas.csv:1
+msgid "3200W"
+msgstr "3200W"
+
+#: ../../source/tables/techparas.csv:1
+msgid "用户接口"
+msgstr "ユーザーインターフェース"
+
+#: ../../source/tables/techparas.csv:1
+msgid "USB*3；RJ45*2"
+msgstr "USB*3；RJ45*2"
+
+#: ../../source/tables/techparas.csv:1
+msgid "IP等级"
+msgstr "IP保護等級"
+
+#: ../../source/tables/techparas.csv:1
+msgid "IP20"
+msgstr "IP20"
+
+#: ../../source/tables/techparas.csv:1
+msgid "机械臂参数"
+msgstr "ロボットアーム仕様"
+
+#: ../../source/tables/techparas.csv:1
+msgid "单臂负载"
+msgstr "片腕の可搬質量"
+
+#: ../../source/tables/techparas.csv:1
+msgid "5kg"
+msgstr "5kg"
+
+#: ../../source/tables/techparas.csv:1
+msgid "工作半径"
+msgstr "リーチ"
+
+#: ../../source/tables/techparas.csv:1
+msgid "976mm"
+msgstr "976mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "重复定位精度"
+msgstr "繰返し位置決め精度"
+
+#: ../../source/tables/techparas.csv:1
+msgid "±0.05mm"
+msgstr "±0.05mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "自由度"
+msgstr "自由度"
+
+#: ../../source/tables/techparas.csv:1
+msgid "7"
+msgstr "7"
+
+#: ../../source/tables/techparas.csv:1
+msgid "动作范围"
+msgstr "動作範囲"
+
+#: ../../source/tables/techparas.csv:1
+msgid "旋转范围"
+msgstr "回転範囲"
+
+#: ../../source/tables/techparas.csv:1
+msgid "最大速度"
+msgstr "最大速度"
+
+#: ../../source/tables/techparas.csv:1
+msgid "关节1"
+msgstr "関節1"
+
+#: ../../source/tables/techparas.csv:1
+msgid "±360°"
+msgstr "±360°"
+
+#: ../../source/tables/techparas.csv:1
+msgid "90°/s"
+msgstr "90°/s"
+
+#: ../../source/tables/techparas.csv:1
+msgid "关节2"
+msgstr "関節2"
+
+#: ../../source/tables/techparas.csv:1
+msgid "±105°"
+msgstr "±105°"
+
+#: ../../source/tables/techparas.csv:1
+msgid "关节3"
+msgstr "関節3"
+
+#: ../../source/tables/techparas.csv:1
+msgid "120°/s"
+msgstr "120°/s"
+
+#: ../../source/tables/techparas.csv:1
+msgid "关节4"
+msgstr "関節4"
+
+#: ../../source/tables/techparas.csv:1
+msgid "-135°-30°"
+msgstr "-135°-30°"
+
+#: ../../source/tables/techparas.csv:1
+msgid "关节5"
+msgstr "関節5"
+
+#: ../../source/tables/techparas.csv:1
+msgid "150°/s"
+msgstr "150°/s"
+
+#: ../../source/tables/techparas.csv:1
+msgid "关节6"
+msgstr "関節6"
+
+#: ../../source/tables/techparas.csv:1
+msgid "关节7"
+msgstr "関節7"
+
+#: ../../source/tables/techparas.csv:1
+msgid "工具端典型速度"
+msgstr "ツール先端の代表速度"
+
+#: ../../source/tables/techparas.csv:1
+msgid "1m/s"
+msgstr "1m/s"
+
+#: ../../source/tables/techparas.csv:1
+msgid "底座直径"
+msgstr "ベース直径"
+
+#: ../../source/tables/techparas.csv:1
+msgid "130mm"
+msgstr "130mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "底盘运动性能"
+msgstr "台車の走行性能"
+
+#: ../../source/tables/techparas.csv:1
+msgid "可越过最大间隙"
+msgstr "乗り越え可能な最大段差（溝）"
+
+#: ../../source/tables/techparas.csv:1
+msgid "30mm"
+msgstr "30mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "可越过最高台阶"
+msgstr "乗り越え可能な最大段差（高さ）"
+
+#: ../../source/tables/techparas.csv:1
+msgid "10mm"
+msgstr "10mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "最大爬坡"
+msgstr "最大登坂角度"
+
+#: ../../source/tables/techparas.csv:1
+msgid "10°"
+msgstr "10°"
+
+#: ../../source/tables/techparas.csv:1
+msgid "1.5m/s"
+msgstr "1.5m/s"
+
+#: ../../source/tables/techparas.csv:1
+msgid "额定速度"
+msgstr "定格速度"
+
+#: ../../source/tables/techparas.csv:1
+msgid "最大加速度"
+msgstr "最大加速度"
+
+#: ../../source/tables/techparas.csv:1
+msgid "1m/s²"
+msgstr "1m/s²"
+
+#: ../../source/tables/techparas.csv:1
+msgid "定位精度"
+msgstr "位置決め精度"
+
+#: ../../source/tables/techparas.csv:1
+msgid "±10mm"
+msgstr "±10mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "旋转直径"
+msgstr "旋回直径"
+
+#: ../../source/tables/techparas.csv:1
+msgid "φ975mm"
+msgstr "φ975mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "电池性能"
+msgstr "バッテリー仕様"
+
+#: ../../source/tables/techparas.csv:1
+msgid "电池类型"
+msgstr "バッテリー種類"
+
+#: ../../source/tables/techparas.csv:1
+msgid "磷酸铁锂"
+msgstr "リン酸鉄リチウム"
+
+#: ../../source/tables/techparas.csv:1
+msgid "额定电压"
+msgstr "定格電圧"
+
+#: ../../source/tables/techparas.csv:1
+msgid "48V"
+msgstr "48V"
+
+#: ../../source/tables/techparas.csv:1
+msgid "最大充电电压"
+msgstr "最大充電電圧"
+
+#: ../../source/tables/techparas.csv:1
+msgid "54.75V"
+msgstr "54.75V"
+
+#: ../../source/tables/techparas.csv:1
+msgid "放电截止电压"
+msgstr "放電終止電圧"
+
+#: ../../source/tables/techparas.csv:1
+msgid "37.5V"
+msgstr "37.5V"
+
+#: ../../source/tables/techparas.csv:1
+msgid "最大电流"
+msgstr "最大電流"
+
+#: ../../source/tables/techparas.csv:1
+msgid "45A"
+msgstr "45A"
+
+#: ../../source/tables/techparas.csv:1
+msgid "充电循环次数"
+msgstr "充電サイクル数"
+
+#: ../../source/tables/techparas.csv:1
+msgid "2000次，80%DOD"
+msgstr "2000回、80% DOD"
+
+#: ../../source/tables/techparas.csv:1
+msgid "电池容量"
+msgstr "バッテリー容量"
+
+#: ../../source/tables/techparas.csv:1
+msgid "21Ah*2"
+msgstr "21Ah*2"
+
+#: ../../source/tables/techparas.csv:1
+msgid "额定工况工作时长"
+msgstr "定格条件での稼働時間"
+
+#: ../../source/tables/techparas.csv:1
+msgid "4h"
+msgstr "4h"
+
+#: ../../source/tables/techparas.csv:1
+msgid "空载工作时长"
+msgstr "無負荷での稼働時間"
+
+#: ../../source/tables/techparas.csv:1
+msgid "6h"
+msgstr "6h"
+
+#: ../../source/tables/techparas.csv:1
+msgid "完全放电后充电时长"
+msgstr "完全放電後の充電時間"
+
+#: ../../source/tables/techparas.csv:1
+msgid "2h"
+msgstr "2h"
+
+#: ../../source/tables/techparas.csv:1
+msgid "电池重量（单个）"
+msgstr "バッテリー質量（1個）"
+
+#: ../../source/tables/techparas.csv:1
+msgid "9±2kg"
+msgstr "9±2kg"
+
+#: ../../source/tables/techparas.csv:1
+msgid "电池尺寸（长度×宽度×高度）"
+msgstr "バッテリー寸法（長さ×幅×高さ）"
+
+#: ../../source/tables/techparas.csv:1
+msgid "345*120*155mm"
+msgstr "345*120*155mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "充电器连接线长度"
+msgstr "充電器接続ケーブル長"
+
+#: ../../source/tables/techparas.csv:1
+msgid "1.5m"
+msgstr "1.5m"
+
+#: ../../source/tables/techparas.csv:1
+msgid "安全防护"
+msgstr "安全保護"
+
+#: ../../source/07 ../../source/tables/techparas.csv:1 技术规格.rst:412
+msgid "激光雷达"
+msgstr "LiDAR"
+
+#: ../../source/tables/techparas.csv:1
+msgid "2个"
+msgstr "2個"
+
+#: ../../source/tables/techparas.csv:1
+msgid "工作高度：286±2mm"
+msgstr "動作高さ：286±2 mm"
+
+#: ../../source/tables/techparas.csv:1
+msgid "3D相机"
+msgstr "3Dカメラ"
+
+#: ../../source/tables/techparas.csv:1
+msgid "避障传感器"
+msgstr "障害物回避センサー"
+
+#: ../../source/tables/techparas.csv:1
+msgid "1个"
+msgstr "1個"
+
+#: ../../source/tables/techparas.csv:1
+msgid "工作高度：1690±3mm"
+msgstr "動作高さ：1690±3 mm"
+
+#: ../../source/07 ../../source/tables/techparas.csv:1 技术规格.rst:259
+msgid "急停按钮"
+msgstr "非常停止ボタン"
+
+#: ../../source/tables/techparas.csv:1
+msgid "控制柜规格"
+msgstr "制御盤仕様"
+
+#: ../../source/tables/techparas.csv:1
+msgid "通讯方式"
+msgstr "通信方式"
+
+#: ../../source/tables/techparas.csv:1
+msgid "EtherCAT"
+msgstr "EtherCAT"
+
+#: ../../source/tables/techparas.csv:1
+msgid "I/O端口"
+msgstr "I/Oポート"
+
+#: ../../source/tables/techparas.csv:1
+msgid "2路输入输出复用"
+msgstr "入力／出力兼用2チャンネル"
+
+#: ../../source/tables/techparas.csv:1
+msgid "I/O电源"
+msgstr "I/O電源"
+
+#: ../../source/tables/techparas.csv:1
+msgid "CPU"
+msgstr "CPU"
+
+#: ../../source/tables/techparas.csv:1
+msgid "Intel Core Ultra 7 255H"
+msgstr "Intel Core Ultra 7 255H"
+
+#: ../../source/tables/techparas.csv:1
+msgid "GPU"
+msgstr "GPU"
+
+#: ../../source/tables/techparas.csv:1
+msgid "MXM接口"
+msgstr "MXMインターフェース"
+
+#: ../../source/tables/techparas.csv:1
+msgid "内存"
+msgstr "メモリー"
+
+#: ../../source/tables/techparas.csv:1
+msgid "DDR4 32G"
+msgstr "DDR4 32G"
+
+#: ../../source/tables/techparas.csv:1
+msgid "硬盘"
+msgstr "ストレージ"
+
+#: ../../source/tables/techparas.csv:1
+msgid "256G SSD"
+msgstr "256G SSD"
+
+#: ../../source/tables/techparas.csv:1
+msgid "接口（单个控制柜）"
+msgstr "インターフェース（制御盤1台あたり）"
+
+#: ../../source/tables/techparas.csv:1
+msgid "5路 千兆以太网，2路 485"
+msgstr "ギガビットEthernet 5ポート、RS-485 2ポート"
+
+#: ../../source/tables/techparas.csv:1
+msgid "4路 GMSL2接口 ，2路 CAN接口"
+msgstr "GMSL2インターフェース4ポート、CANインターフェース2ポート"
+
+#: ../../source/tables/techparas.csv:1
+msgid "USB 4路 USB3.0"
+msgstr "USB 3.0ポート×4"
+
+#: ../../source/tables/techparas.csv:1
+msgid "COM*2，可配置为RS232/RS485"
+msgstr "COM×2（RS-232／RS-485に設定可能）"
+
+#: ../../source/tables/techparas.csv:1
+msgid "HDMI*1"
+msgstr "HDMI*1"
+
+#: ../../source/tables/techparas.csv:1
+msgid "Line out*1, Mic in*1"
+msgstr "Line out*1, Mic in*1"
+
+#: ../../source/tables/techparas.csv:1
+msgid "环境"
+msgstr "環境条件"
+
+#: ../../source/tables/techparas.csv:1
+msgid "温度范围"
+msgstr "温度範囲"
+
+#: ../../source/tables/techparas.csv:1
+msgid "-20-60°C"
+msgstr "-20-60°C"
+
+#: ../../source/tables/techparas.csv:1
+msgid "湿度范围"
+msgstr "湿度範囲"
+
+#: ../../source/tables/techparas.csv:1
+msgid "10-90%RH"
+msgstr "10-90%RH"
+
+#: ../../source/tables/techparas.csv:1
+msgid "使用海拔"
+msgstr "使用高度"
+
+#: ../../source/tables/techparas.csv:1
+msgid "≤1000m"
+msgstr "≤1000m"
+
+#: ../../source/07 技术规格.rst:19
+msgid "电气规格"
+msgstr "電気仕様"
+
+#: ../../source/07 技术规格.rst:24
+msgid "充电器电气规格"
+msgstr "充電器の電気仕様"
+
+#: ../../source/07 技术规格.rst:26
+msgid "充电器电气规格如下。"
+msgstr "充電器の電気仕様を以下に示します。"
+
+#: ../../source/07 技术规格.rst:28
+msgid "充电器参数"
+msgstr "充電器仕様"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "输入"
+msgstr "入力"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "额定输入电压"
+msgstr "定格入力電圧"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "220VAC"
+msgstr "220VAC"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "输入电压范围"
+msgstr "入力電圧範囲"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "±10%"
+msgstr "±10%"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "频率范围"
+msgstr "周波数範囲"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "47-63 Hz"
+msgstr "47-63 Hz"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "输入电流"
+msgstr "入力電流"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "≤15A"
+msgstr "≤15A"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "效率"
+msgstr "効率"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "≥91.5%"
+msgstr "≥91.5%"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "功率因数"
+msgstr "力率"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "≥0.99"
+msgstr "≥0.99"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "输出"
+msgstr "出力"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "额定输出电压"
+msgstr "定格出力電圧"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "48VDC"
+msgstr "48VDC"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "输出电压范围"
+msgstr "出力電圧範囲"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "10-54.8V"
+msgstr "10-54.8V"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "额定输出电流"
+msgstr "定格出力電流"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "20A"
+msgstr "20A"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "最大输出功率"
+msgstr "最大出力電力"
+
+#: ../../source/tables/充电器参数.csv:1
+msgid "1200W"
+msgstr "1200W"
+
+#: ../../source/07 技术规格.rst:36
+msgid "控制柜接口线束规格"
+msgstr "制御盤インターフェース用ハーネス仕様"
+
+#: ../../source/07 技术规格.rst:38
+msgid "使用控制柜前面板和背面板的I/O接口接线时，应选择符合以下规范的线束。"
+msgstr "制御盤の前面および背面パネルにあるI/Oインターフェースを配線する場合は、以下の仕様に適合するハーネスを使用してください。"
+
+#: ../../source/07 技术规格.rst:40
+msgid "I/O接口线束规格"
+msgstr "I/Oインターフェース用ハーネス仕様"
+
+#: ../../source/07 技术规格.rst:44 技术规格.rst:65
+msgid "**接口**"
+msgstr "**インターフェース**"
+
+#: ../../source/07 技术规格.rst:45 技术规格.rst:66
+msgid "**端子型号**"
+msgstr "**端子型式**"
+
+#: ../../source/07 技术规格.rst:46 技术规格.rst:67
+msgid "**线缆面积**"
+msgstr "**電線断面積**"
+
+#: ../../source/07 技术规格.rst:47 技术规格.rst:68
+msgid "**剥线长度**"
+msgstr "**被覆剥き長さ**"
+
+#: ../../source/07 技术规格.rst:49
+msgid "CN1_12PIN"
+msgstr "CN1_12PIN"
+
+#: ../../source/07 技术规格.rst:50
+msgid "15EDGKNHB-3.5-12P-14-18Z(H), DEGSON"
+msgstr "15EDGKNHB-3.5-12P-14-18Z(H), DEGSON"
+
+#: ../../source/07 技术规格.rst:51
+msgid "0.2~1.5mm² (0.00031~0.00233in²) 或28~16AWG"
+msgstr "0.2～1.5 mm²（0.00031～0.00233 in²）または28～16 AWG"
+
+#: ../../source/07 技术规格.rst:52
+msgid "11mm (0.4in)"
+msgstr "11mm (0.4in)"
+
+#: ../../source/07 技术规格.rst:54
+msgid "CN2_16PIN"
+msgstr "CN2_16PIN"
+
+#: ../../source/07 技术规格.rst:55
+msgid "15EDGKNHM-3.5-16P-14-00A(H), DEGSON"
+msgstr "15EDGKNHM-3.5-16P-14-00A(H), DEGSON"
+
+#: ../../source/07 技术规格.rst:56
+msgid "0.2~1.5mm² (0.00031~0.00233in²) 或26~16AWG"
+msgstr "0.2～1.5 mm²（0.00031～0.00233 in²）または26～16 AWG"
+
+#: ../../source/07 技术规格.rst:57
+msgid "10mm (0.39in)"
+msgstr "10mm (0.39in)"
+
+#: ../../source/07 技术规格.rst:59
+msgid "RoboHub控制柜电源接口为4pin端子，接线时，应选择符合以下规范的线束。"
+msgstr "RoboHub制御盤の電源インターフェースは4ピン端子です。配線には、以下の仕様に適合するハーネスを使用してください。"
+
+#: ../../source/07 技术规格.rst:61
+msgid "电源接口线束规格"
+msgstr "電源インターフェース用ハーネス仕様"
+
+#: ../../source/07 技术规格.rst:70
+msgid "电源连接接口"
+msgstr "電源接続インターフェース"
+
+#: ../../source/07 技术规格.rst:71
+msgid "2EDGKM-7.62-04P-14-1000A(H), DEGSON"
+msgstr "2EDGKM-7.62-04P-14-1000A(H), DEGSON"
+
+#: ../../source/07 技术规格.rst:72
+msgid "1.5~2.5mm² (0.0023~0.004in²) 或28~12AWG [#]_"
+msgstr "1.5～2.5 mm²（0.0023～0.004 in²）または28～12 AWG [#]_"
+
+#: ../../source/07 技术规格.rst:73
+msgid "7mm (0.28in)"
+msgstr "7mm (0.28in)"
+
+#: ../../source/07 技术规格.rst:75
+msgid "需保证线长≤10m（393.7in）。"
+msgstr "ケーブル長は10 m（393.7 in）以下にしてください。"
+
+#: ../../source/07 技术规格.rst:80
+msgid "受EDS影响"
+msgstr "ESDの影響"
+
+#: ../../source/07 技术规格.rst:82
+msgid ""
+"ESD（静电放电）是电势不同的两个物体间的静电传导，它可以通过直接接触传导，也可以通过感应电场传导。搬运部件或其容器时，未接地的人员可能会传导大量的静电荷。这一放电过程可能会损坏灵敏的电子装置。"
+" 使用下列任一方案预防上述现象："
+msgstr "ESD（静電気放電）とは、電位の異なる物体間で静電気が移動する現象です。直接接触または誘導電界によって発生します。部品またはその容器を取り扱う際、接地されていない作業者に大量の静電荷が蓄積することがあります。この放電によって、精密な電子機器が損傷するおそれがあります。以下のいずれかの方法で防止してください。"
+
+#: ../../source/07 技术规格.rst:85
+msgid "使用腕带。腕带必须经常检查以确保没有损坏并且要正确使用。"
+msgstr "リストストラップを使用してください。損傷がないことを定期的に点検し、正しく装着してください。"
+
+#: ../../source/07 技术规格.rst:86
+msgid "使用 ESD 保护地垫。地垫必须通过限流电阻接地。"
+msgstr "ESD保護マットを使用してください。マットは電流制限抵抗を介して接地してください。"
+
+#: ../../source/07 技术规格.rst:87
+msgid "使用防静电桌垫。此垫应能控制静电放电且必须接地。"
+msgstr "静電気対策用の作業マットを使用してください。静電気放電を制御できるものを使用し、必ず接地してください。"
+
+#: ../../source/07 技术规格.rst:92 技术规格.rst:96
+msgid "剩余电流"
+msgstr "残留電流"
+
+#: ../../source/07 技术规格.rst:94
+msgid "请根据以下控制柜剩余电流数据提供外部接地故障保护（剩余电流装置，RCD）："
+msgstr "以下の制御盤の残留電流データに基づき、外部の地絡保護装置（漏電遮断器、RCD）を用意してください。"
+
+#: ../../source/07 技术规格.rst:100
+msgid "**机器人型号**"
+msgstr "**ロボット型式**"
+
+#: ../../source/07 技术规格.rst:101
+msgid "**控制柜中的剩余电流**"
+msgstr "**制御盤の残留電流**"
+
+#: ../../source/07 技术规格.rst:103
+msgid "Kargo"
+msgstr "Kargo"
+
+#: ../../source/07 技术规格.rst:104
+msgid "＜30mA"
+msgstr "＜30mA"
+
+#: ../../source/07 技术规格.rst:109
+msgid "机械尺寸"
+msgstr "機械寸法"
+
+#: ../../source/07 技术规格.rst:111
+msgid "JAKA Kargo轮式人形机器人外形尺寸如下图。"
+msgstr "JAKA Kargo車輪型ヒューマノイドロボットの外形寸法を以下に示します。"
+
+#: ../../source/07 技术规格.rst:117
+msgid "Kargo尺寸图"
+msgstr "Kargo寸法図"
+
+#: ../../source/07 技术规格.rst:120
+msgid "Kargo机械臂外形尺寸如下图。"
+msgstr "Kargoロボットアームの外形寸法を以下に示します。"
+
+#: ../../source/07 技术规格.rst:126
+msgid "机械臂尺寸图"
+msgstr "ロボットアーム寸法図"
+
+#: ../../source/07 技术规格.rst:129
+msgid "Kargo机械臂工作空间如下图。"
+msgstr "Kargoロボットアームの作業空間を以下に示します。"
+
+#: ../../source/07 技术规格.rst:135
+msgid "机械臂工作空间"
+msgstr "ロボットアームの作業空間"
+
+#: ../../source/07 技术规格.rst:141
+msgid "指示灯"
+msgstr "インジケーター"
+
+#: ../../source/07 技术规格.rst:143
+msgid "JAKA Kargo指示灯位于身体和升降机构，其颜色定义一致，具体如下。"
+msgstr "JAKA Kargoのインジケーターは胴体および昇降機構にあり、色の意味は共通です。詳細を以下に示します。"
+
+#: ../../source/07 技术规格.rst:149
+msgid "Kargo指示灯位置"
+msgstr "Kargoインジケーターの位置"
+
+#: ../../source/07 技术规格.rst:152
+msgid "指示灯定义"
+msgstr "インジケーターの表示"
+
+#: ../../source/07 技术规格.rst:156 技术规格.rst:206
+msgid "**颜色**"
+msgstr "**色**"
+
+#: ../../source/07 技术规格.rst:157 技术规格.rst:207
+msgid "**状态**"
+msgstr "**状態**"
+
+#: ../../source/07 技术规格.rst:159
+msgid "红色常亮"
+msgstr "赤色点灯"
+
+#: ../../source/07 技术规格.rst:160
+msgid "机器人急停状态，触边功能触发"
+msgstr "ロボットが非常停止状態、またはセーフティエッジが作動"
+
+#: ../../source/07 技术规格.rst:162
+msgid "黄色常亮"
+msgstr "黄色点灯"
+
+#: ../../source/07 技术规格.rst:163
+msgid "机器人暂停状态"
+msgstr "ロボットが一時停止状態"
+
+#: ../../source/07 技术规格.rst:165
+msgid "橙色闪烁"
+msgstr "オレンジ色点滅"
+
+#: ../../source/07 技术规格.rst:166
+msgid "电池电量≤20%，且未充电"
+msgstr "バッテリー残量が20%以下で、充電していない"
+
+#: ../../source/07 技术规格.rst:168
+msgid "橙色呼吸"
+msgstr "オレンジ色呼吸点滅"
+
+#: ../../source/07 技术规格.rst:169
+msgid "电池电量≤20%，且正在充电"
+msgstr "バッテリー残量が20%以下で、充電中"
+
+#: ../../source/07 技术规格.rst:171
+msgid "绿色呼吸"
+msgstr "緑色呼吸点滅"
+
+#: ../../source/07 技术规格.rst:172
+msgid "电池电量≥20%，且正在充电"
+msgstr "バッテリー残量が20%以上で、充電中"
+
+#: ../../source/07 技术规格.rst:174
+msgid "黄绿色常亮"
+msgstr "黄緑色点灯"
+
+#: ../../source/07 技术规格.rst:175
+msgid "机器人已上电"
+msgstr "ロボットの電源がオン"
+
+#: ../../source/07 技术规格.rst:177
+msgid "绿色常亮"
+msgstr "緑色点灯"
+
+#: ../../source/07 技术规格.rst:178
+msgid "机器人作业中"
+msgstr "ロボット動作中"
+
+#: ../../source/07 技术规格.rst:180
+msgid "黄色闪烁"
+msgstr "黄色点滅"
+
+#: ../../source/07 技术规格.rst:181
+msgid "机器人避障中"
+msgstr "ロボットが障害物を回避中"
+
+#: ../../source/07 技术规格.rst:183
+msgid "白色常亮"
+msgstr "白色点灯"
+
+#: ../../source/07 技术规格.rst:184
+msgid "机器人复位中"
+msgstr "ロボットがリセット中"
+
+#: ../../source/07 技术规格.rst:186
+msgid "蓝色常亮"
+msgstr "青色点灯"
+
+#: ../../source/07 技术规格.rst:187
+msgid "机器人抱闸释放"
+msgstr "ロボットのブレーキが解除中"
+
+#: ../../source/07 技术规格.rst:192
+msgid "电池指示灯"
+msgstr "バッテリーインジケーター"
+
+#: ../../source/07 技术规格.rst:194
+msgid "Kargo由两块电池供电，电池位于移动底盘左侧的电池仓内，每块电池上有四个指示灯，用于指示电池电量。颜色定义如下："
+msgstr "Kargoは2個のバッテリーで駆動します。バッテリーは移動台車左側の収納部にあり、各バッテリーの4つのインジケーターで残量を示します。色の意味は以下のとおりです。"
+
+#: ../../source/07 技术规格.rst:200
+msgid "电池指示灯位置"
+msgstr "バッテリーインジケーターの位置"
+
+#: ../../source/07 技术规格.rst:202
+msgid "电池指示灯定义"
+msgstr "バッテリーインジケーターの表示"
+
+#: ../../source/07 技术规格.rst:209
+msgid "3个绿色，1个红色"
+msgstr "緑色3個、赤色1個"
+
+#: ../../source/07 技术规格.rst:210
+msgid "电池满电"
+msgstr "満充電"
+
+#: ../../source/07 技术规格.rst:212
+msgid "2个绿色，1个红色"
+msgstr "緑色2個、赤色1個"
+
+#: ../../source/07 技术规格.rst:213
+msgid "电池50%电量"
+msgstr "残量50%"
+
+#: ../../source/07 技术规格.rst:215
+msgid "1个绿色，1个红色"
+msgstr "緑色1個、赤色1個"
+
+#: ../../source/07 技术规格.rst:216
+msgid "电池20%电量"
+msgstr "残量20%"
+
+#: ../../source/07 技术规格.rst:218
+msgid "0个绿色，1个红色"
+msgstr "緑色0個、赤色1個"
+
+#: ../../source/07 技术规格.rst:219
+msgid "电池电量告急"
+msgstr "バッテリー残量低下"
+
+#: ../../source/07 技术规格.rst:224
+msgid "按钮"
+msgstr "ボタン"
+
+#: ../../source/07 技术规格.rst:229
+msgid "整机按钮"
+msgstr "本体ボタン"
+
+#: ../../source/07 技术规格.rst:231
+msgid "Kargo按钮位于升降机构背面，共有五个按钮，功能定义如下。"
+msgstr "Kargoのボタンは昇降機構の背面に5つあり、各ボタンの機能は以下のとおりです。"
+
+#: ../../source/07 技术规格.rst:237
+msgid "Kargo按钮位置"
+msgstr "Kargoボタンの位置"
+
+#: ../../source/07 技术规格.rst:240 技术规格.rst:299
+msgid "按钮定义"
+msgstr "ボタンの機能"
+
+#: ../../source/07 技术规格.rst:244
+msgid "**序号**"
+msgstr "**番号**"
+
+#: ../../source/07 技术规格.rst:245
+msgid "**名称**"
+msgstr "**名称**"
+
+#: ../../source/07 技术规格.rst:246 技术规格.rst:304
+msgid "**功能**"
+msgstr "**機能**"
+
+#: ../../source/07 技术规格.rst:248
+msgid "1"
+msgstr "1"
+
+#: ../../source/07 技术规格.rst:249
+msgid "开关按钮（绿色）"
+msgstr "電源ボタン（緑色）"
+
+#: ../../source/07 技术规格.rst:250
+msgid "**开机** ：按下此按钮，Kargo系统开机，指示先是灯青色呼吸，后变为绿色常亮。"
+msgstr "**起動** ：このボタンを押すとKargoシステムが起動します。インジケーターはシアン色の呼吸点滅から緑色点灯に変わります。"
+
+#: ../../source/07 技术规格.rst:252
+msgid "**关机** ：长按此按钮15秒，Kargo系统关机，指示灯熄灭。"
+msgstr "**シャットダウン** ：このボタンを15秒間長押しするとKargoシステムが終了し、インジケーターが消灯します。"
+
+#: ../../source/07 技术规格.rst:254
+msgid "2"
+msgstr "2"
+
+#: ../../source/07 技术规格.rst:255
+msgid "释放抱闸按钮（蓝色）"
+msgstr "ブレーキ解除ボタン（青色）"
+
+#: ../../source/07 技术规格.rst:256
+msgid "长按此按钮3秒，Kargo系统释放抱闸，Kargo可移动，指示灯蓝色常亮。"
+msgstr "このボタンを3秒間長押しするとKargoシステムのブレーキが解除され、Kargoが移動可能になります。インジケーターは青色に点灯します。"
+
+#: ../../source/07 技术规格.rst:258
+msgid "3"
+msgstr "3"
+
+#: ../../source/07 技术规格.rst:260
+msgid "按下此按钮，Kargo驱动器断电，指示灯红色慢闪。"
+msgstr "このボタンを押すとKargoの駆動系電源が遮断され、インジケーターが赤色でゆっくり点滅します。"
+
+#: ../../source/07 技术规格.rst:262
+msgid "释放此按钮，指示灯红色常亮。"
+msgstr "このボタンを解除すると、インジケーターが赤色に点灯します。"
+
+#: ../../source/07 技术规格.rst:264
+msgid "4"
+msgstr "4"
+
+#: ../../source/07 技术规格.rst:265
+msgid "复位按钮（白色）"
+msgstr "リセットボタン（白色）"
+
+#: ../../source/07 技术规格.rst:266
+msgid "整机处于 **急停状态** 且急停按钮已释放时，按下此按钮后，等待15秒左右，供电恢复。此时指示灯由白色变为绿色。"
+msgstr "本体が **非常停止状態** にあり、非常停止ボタンが解除されているときにこのボタンを押すと、約15秒後に電源が復帰します。インジケーターは白色から緑色に変わります。"
+
+#: ../../source/07 技术规格.rst:268
+msgid "整机处于 **释放抱闸状态** 时，按下此按钮，抱闸恢复，此时机器人不可移动，指示灯先白色闪烁一次后变为绿色。"
+msgstr "本体の **ブレーキ解除状態** でこのボタンを押すと、ブレーキが復帰し、ロボットは移動できなくなります。インジケーターは白色に1回点滅してから緑色に変わります。"
+
+#: ../../source/07 技术规格.rst:270
+msgid "整机处于 **暂停状态** 时，按下此按钮即可恢复运行。"
+msgstr "本体が **一時停止状態** のときにこのボタンを押すと、動作を再開します。"
+
+#: ../../source/07 技术规格.rst:272
+msgid "5"
+msgstr "5"
+
+#: ../../source/07 技术规格.rst:273
+msgid "暂停/停止按钮（橙色）"
+msgstr "一時停止／停止ボタン（オレンジ色）"
+
+#: ../../source/07 技术规格.rst:274
+msgid "**暂停** ：设备运行时，按下此按钮，整机运行暂停，指示灯橙色闪烁一次后变为绿色常亮，按下 **复位** 按钮即可恢复运行。"
+msgstr "**一時停止** ：装置の動作中にこのボタンを押すと、本体が一時停止します。インジケーターがオレンジ色に1回点滅した後、緑色に点灯します。**リセット** ボタンを押すと動作を再開します。"
+
+#: ../../source/07 技术规格.rst:276
+msgid "**停止** ：设备运行时，长按此按钮5秒，整机运行停止。"
+msgstr "**停止** ：装置の動作中にこのボタンを5秒間長押しすると、本体の動作が停止します。"
+
+#: ../../source/07 技术规格.rst:280
+msgid "复位按钮只能恢复移动底盘的运动，不能恢复机械臂、升降柱的运动。"
+msgstr "リセットボタンで再開できるのは移動台車の動作のみです。ロボットアームおよび昇降柱の動作は再開できません。"
+
+#: ../../source/07 技术规格.rst:285
+msgid "末端法兰按钮"
+msgstr "エンドフランジのボタン"
+
+#: ../../source/07 技术规格.rst:287
+msgid "除以上按扭外，机械臂末端法兰处有两个按钮，分别为拖拽按钮（FREE），与记录点位按钮（POINT），如下图所示。"
+msgstr "上記のボタンに加えて、ロボットアームのエンドフランジには、ダイレクトティーチボタン（FREE）と位置記録ボタン（POINT）の2つがあります。以下の図を参照してください。"
+
+#: ../../source/07 技术规格.rst:293
+msgid "机械臂按钮位置"
+msgstr "ロボットアームのボタン位置"
+
+#: ../../source/07 技术规格.rst:295
+msgid "1 拖拽按钮"
+msgstr "1 ダイレクトティーチボタン"
+
+#: ../../source/07 技术规格.rst:296
+msgid "2 记录点位按钮"
+msgstr "2 位置記録ボタン"
+
+#: ../../source/07 技术规格.rst:303
+msgid "**操作**"
+msgstr "**操作**"
+
+#: ../../source/07 技术规格.rst:306
+msgid "长按FREE按钮2秒"
+msgstr "FREEボタンを2秒間長押し"
+
+#: ../../source/07 技术规格.rst:307
+msgid "进入工具拖拽模式"
+msgstr "ツールダイレクトティーチモードに入る"
+
+#: ../../source/07 技术规格.rst:309
+msgid "按下FREE按钮"
+msgstr "FREEボタンを押す"
+
+#: ../../source/07 技术规格.rst:310
+msgid "退出工具拖拽模式"
+msgstr "ツールダイレクトティーチモードを終了"
+
+#: ../../source/07 技术规格.rst:312
+msgid "长按POINT按钮2秒"
+msgstr "POINTボタンを2秒間長押し"
+
+#: ../../source/07 技术规格.rst:313
+msgid "传感器校零"
+msgstr "センサーのゼロ点調整"
+
+#: ../../source/07 技术规格.rst:315
+msgid "按下POINT按钮"
+msgstr "POINTボタンを押す"
+
+#: ../../source/07 技术规格.rst:316
+msgid "记录机械臂点位"
+msgstr "ロボットアームの位置を記録"
+
+#: ../../source/07 技术规格.rst:318
+msgid "**拖拽模式：** 通过拖拽机械臂关节控制机器人运动。"
+msgstr "**ダイレクトティーチモード：** ロボットアームの関節を手で動かしてロボットを操作します。"
+
+#: ../../source/07 技术规格.rst:319
+msgid "**工具拖拽模式：** 即启用力控传感器的拖拽模式。"
+msgstr "**ツールダイレクトティーチモード：** 力覚センサーを使用したダイレクトティーチモードです。"
+
+#: ../../source/07 技术规格.rst:320
+msgid "**记录机器人点位：** 记录机械臂当前TCP在笛卡尔空间的位置。按下POINT按钮后， |软件| 编程界面会出现机械臂当前点位的指令。"
+msgstr "**ロボット位置の記録：** ロボットアームの現在のTCP位置を直交座標空間で記録します。POINTボタンを押すと、|软件| のプログラミング画面に現在位置の命令が表示されます。"
+
+#: ../../source/07 技术规格.rst:321
+msgid "**传感器校零：** 当传感器未受到任何力时，其输出值应为零，校零就是将此值进行调整，使其达到真正的零位。校零可保证传感器测量结果准确。"
+msgstr "**センサーのゼロ点調整：** センサーに力が加わっていないときの出力値はゼロである必要があります。ゼロ点調整では出力値を真のゼロに合わせ、測定精度を確保します。"
+
+#: ../../source/07 技术规格.rst:325
+msgid "FREE按钮的使用，需要用户充分评估可能存在的风险，必须确保正确地设置了机械臂的安装姿态、末端负载与TCP等参数，否则可能造成人身伤害或设备损毁。"
+msgstr "FREEボタンを使用する前に、想定されるリスクを十分に評価してください。ロボットアームの設置姿勢、先端負荷、TCPなどのパラメーターが正しく設定されていることを確認してください。設定が不適切な場合、人身傷害または機器の損傷につながるおそれがあります。"
+
+#: ../../source/07 技术规格.rst:330
+msgid "电池按钮"
+msgstr "バッテリーボタン"
+
+#: ../../source/07 技术规格.rst:332
+msgid "Kargo由两块电池供电，电池位于移动底盘左侧的电池仓内，每块电池上有一个指示灯，按下此按钮，电量指示灯亮起。"
+msgstr "Kargoは2個のバッテリーで駆動し、バッテリーは移動台車左側の収納部にあります。各バッテリーにインジケーターが1つあり、このボタンを押すと残量が表示されます。"
+
+#: ../../source/07 技术规格.rst:334
+msgid "按钮位置如下图。"
+msgstr "ボタンの位置を以下の図に示します。"
+
+#: ../../source/07 技术规格.rst:340
+msgid "电池按钮位置"
+msgstr "バッテリーボタンの位置"
+
+#: ../../source/07 技术规格.rst:345
+msgid "力控传感器"
+msgstr "力覚センサー"
+
+#: ../../source/07 技术规格.rst:347
+msgid "Kargo机械臂末端法兰内嵌一个6维力控传感器，使用步骤如下："
+msgstr "Kargoのロボットアームのエンドフランジには6軸力覚センサーが内蔵されています。以下の手順で使用してください。"
+
+#: ../../source/07 技术规格.rst:349
+msgid "**校零传感器：** 长按POINT按钮2s，校零传感器，此时环形指示灯蓝绿闪烁两次。"
+msgstr "**センサーのゼロ点調整：** POINTボタンを2秒間長押しします。ゼロ点調整中はリング状インジケーターが青緑色に2回点滅します。"
+
+#: ../../source/07 技术规格.rst:350
+msgid "**启用传感器：** 长按FREE按钮2s，进入工具拖拽模式。"
+msgstr "**センサーの有効化：** FREEボタンを2秒間長押しして、ツールダイレクトティーチモードに入ります。"
+
+#: ../../source/07 技术规格.rst:351
+msgid "**拖拽机器人：** 当只有末端法兰内嵌传感器时。通过拖拽机械臂末端力传感器控制机器人运动。由于可供工具拖拽的位置较小，建议在机械臂末端安装工装以便操作，拖拽位置见下图灰色区域。"
+msgstr ""
+"**ロボットのダイレクトティーチ：** "
+"エンドフランジ内蔵センサーのみを使用する場合、ロボットアーム先端の力覚センサーを手で動かしてロボットを操作します。ツールをつかめる範囲が狭いため、操作しやすいようにアーム先端へ治具を取り付けることを推奨します。操作位置は下図の灰色領域です。"
+
+#: ../../source/07 技术规格.rst:357
+msgid "机械臂工具拖拽位置"
+msgstr "ロボットアームのツールダイレクトティーチ位置"
+
+#: ../../source/07 技术规格.rst:360
+msgid "**退出工具拖拽：** 按下FREE按钮，退出工具拖拽模式。"
+msgstr "**ツールダイレクトティーチの終了：** FREEボタンを押してモードを終了します。"
+
+#: ../../source/07 技术规格.rst:364
+msgid "首次使用机器人，重新部署后，从故障中恢复后，以及传感器长时间通电静置后，应检查力传感器读数是否正常，并正确校零。"
+msgstr "ロボットの初回使用時、再設置後、故障からの復旧後、およびセンサーを長時間通電したまま静置した後は、力覚センサーの読み取り値が正常であることを確認し、適切にゼロ点調整してください。"
+
+#: ../../source/07 技术规格.rst:365
+msgid "保证传感器校零过程中，机械臂的末端与外界环境没有接触力。"
+msgstr "センサーのゼロ点調整中は、ロボットアームの先端に外部から力が加わっていないことを確認してください。"
+
+#: ../../source/07 技术规格.rst:370
+msgid "障碍物检测"
+msgstr "障害物検出"
+
+#: ../../source/07 技术规格.rst:375
+msgid "3D深度相机"
+msgstr "3D深度カメラ"
+
+#: ../../source/07 技术规格.rst:377
+msgid "Kargo机器人配有两台3D深度相机，分别位于机器人头部和身体。用于高度方向上的避障。"
+msgstr "Kargoには3D深度カメラが2台搭載されており、頭部と胴体に配置されています。高さ方向の障害物回避に使用します。"
+
+#: ../../source/07 技术规格.rst:383
+msgid "深度相机位置"
+msgstr "深度カメラの位置"
+
+#: ../../source/07 技术规格.rst:386
+msgid "3D相机检测范围如下："
+msgstr "3Dカメラの検出範囲は以下のとおりです。"
+
+#: ../../source/07 技术规格.rst:388
+msgid "相机检测最大范围为0.2~10m，推荐障碍物检测区间为在0.25~7m，在此区间内使用相机可获得更精确可靠的数据。若物体距离相机小于20cm，相机将无法测量出该物体。"
+msgstr ""
+"カメラの最大検出範囲は0.2～10 mです。障害物検出には0.25～7 mの範囲を推奨します。この範囲では、より正確で信頼性の高いデータを取得できます。物体がカメラから20 "
+"cm未満の距離にある場合、検出できません。"
+
+#: ../../source/07 技术规格.rst:389
+msgid "相机在水平方向上的检测范围为91°，在垂直方向上的检测范围为66°。"
+msgstr "カメラの検出視野角は、水平方向が91°、垂直方向が66°です。"
+
+#: ../../source/07 技术规格.rst:390
+msgid "相机可以输出1280x800像素的深度图，每秒30帧。"
+msgstr "カメラは1280×800ピクセルの深度画像を毎秒30フレームで出力できます。"
+
+#: ../../source/07 技术规格.rst:391
+msgid "相机的快门方式为全局快门。"
+msgstr "カメラのシャッター方式はグローバルシャッターです。"
+
+#: ../../source/07 技术规格.rst:395
+msgid "如果仅依靠3D相机来检测人员，机器人可能会与人员发生碰撞并导致受伤。"
+msgstr "人の検出を3Dカメラだけに依存すると、ロボットが人に衝突してけがをさせるおそれがあります。"
+
+#: ../../source/07 技术规格.rst:397
+msgid "请勿在修改激光扫描仪设置时，期望3D相机能够防止与人员发生碰撞。"
+msgstr "レーザースキャナーの設定を変更する際、3Dカメラが人との衝突を防止すると想定しないでください。"
+
+#: ../../source/07 技术规格.rst:398
+msgid "在对机器人进行风险评估时，请勿将3D相机作为与安全相关的风险降低措施。"
+msgstr "ロボットのリスクアセスメントでは、3Dカメラを安全関連のリスク低減方策として扱わないでください。"
+
+#: ../../source/07 技术规格.rst:400
+msgid "3D相机存在以下局限性："
+msgstr "3Dカメラには以下の制限があります。"
+
+#: ../../source/07 技术规格.rst:402
+msgid "只能检测机器人前方的物体，无法像激光扫描仪那样提供360°全方位视野。"
+msgstr "ロボット前方の物体のみを検出できます。レーザースキャナーのような360°全周視野はありません。"
+
+#: ../../source/07 技术规格.rst:403
+msgid "无法可靠地检测薄型物体，如托盘叉或货架。"
+msgstr "パレットフォークや棚などの薄い物体を確実に検出できません。"
+
+#: ../../source/07 技术规格.rst:404
+msgid "难以检测透明或反光障碍物。"
+msgstr "透明または反射する障害物の検出が困難です。"
+
+#: ../../source/07 技术规格.rst:405
+msgid "无法检测孔洞或下行的楼梯。"
+msgstr "穴や下り階段を検出できません。"
+
+#: ../../source/07 技术规格.rst:406
+msgid "在观察具有重复图案的结构时，无法可靠地判断深度。"
+msgstr "繰り返し模様のある構造物を撮影した場合、深度を確実に判断できません。"
+
+#: ../../source/07 技术规格.rst:407 技术规格.rst:433
+msgid "如果暴露在强直射光下，可能误检测出障碍物。"
+msgstr "強い直射光にさらされると、障害物を誤検出する場合があります。"
+
+#: ../../source/07 技术规格.rst:414
+msgid "Kargo机器人配有两个激光雷达，位于移动底盘的右前方和左后方。用于扫描地图、导航定位、平面避障。"
+msgstr "KargoにはLiDARが2台搭載され、移動台車の右前方および左後方に配置されています。地図のスキャン、ナビゲーション位置決め、水平面上の障害物回避に使用します。"
+
+#: ../../source/07 技术规格.rst:420
+msgid "激光雷达位置"
+msgstr "LiDARの位置"
+
+#: ../../source/07 技术规格.rst:423
+msgid "激光雷达检测范围如下："
+msgstr "LiDARの検出範囲は以下のとおりです。"
+
+#: ../../source/07 技术规格.rst:425
+msgid "水平方向上，每个雷达的检测角度范围为-135~135°。"
+msgstr "各LiDARの水平方向の検出角度範囲は-135～135°です。"
+
+#: ../../source/07 技术规格.rst:426
+msgid "检测障碍物距离范围为1~3m。"
+msgstr "障害物の検出距離は1～3 mです。"
+
+#: ../../source/07 技术规格.rst:428
+msgid "激光雷达存在以下局限性："
+msgstr "LiDARには以下の制限があります。"
+
+#: ../../source/07 技术规格.rst:430
+msgid "仅能检测到距地面286±2mm高度平面内的物体。"
+msgstr "地面から286±2 mmの高さにある平面内の物体のみを検出できます。"
+
+#: ../../source/07 技术规格.rst:431
+msgid "无法检测透明、半透明物体。"
+msgstr "透明または半透明の物体を検出できません。"
+
+#: ../../source/07 技术规格.rst:432
+msgid "检测反光障碍物时，数据可能不准确。"
+msgstr "反射する障害物を検出する場合、データが不正確になることがあります。"
+
+#: ../../source/07 技术规格.rst:437
+msgid "机器人无法可靠检测以下障碍物："
+msgstr "ロボットは以下の障害物を確実に検出できません。"
+
+#: ../../source/07 技术规格.rst:439
+msgid "地面坑洞，如下行楼梯、装卸区或敞口深坑。"
+msgstr "下り階段、荷役エリア、開口した深い穴などの床面のくぼみ。"
+
+#: ../../source/07 技术规格.rst:440
+msgid "玻璃或反光材质构成的墙壁或障碍物。"
+msgstr "ガラスまたは反射材でできた壁や障害物。"
+
+#: ../../source/07 技术规格.rst:441
+msgid "位于激光雷达检测高度上方的悬空障碍物。"
+msgstr "LiDARの検出高さより上にある宙吊りの障害物。"
+
+#: ../../source/07 技术规格.rst:442
+msgid "位于激光雷达检测高度下方的托盘或其他障碍物。"
+msgstr "LiDARの検出高さより下にあるパレットなどの障害物。"
+
+#: ../../source/07 技术规格.rst:444
+msgid "若机器人驶过边缘或撞入障碍物，失去稳定性可能导致人员重伤、机器人及设备损坏。在存在上述机器人无法可靠检测的障碍物区域，必须采取以下措施："
+msgstr "ロボットが端から転落したり障害物に衝突したりして安定性を失うと、人が重傷を負い、ロボットや設備が損傷するおそれがあります。ロボットが確実に検出できない上記の障害物がある区域では、必ず以下の対策を講じてください。"
+
+#: ../../source/07 技术规格.rst:446
+msgid "设置物理隔离，阻止机器人进入该区域。例如，在楼梯口设置防护栏。"
+msgstr "物理的な仕切りを設けてロボットの進入を防いでください。たとえば、階段の入口に柵を設置します。"
+
+#: ../../source/07 技术规格.rst:447
+msgid "在该区域周边布置可被安全系统检测到的障碍物。"
+msgstr "安全システムが検出できる障害物を区域の周囲に配置してください。"
+
+#: ../../source/07 技术规格.rst:448
+msgid "切勿依赖禁区来降低风险。禁区不具备安全等级，不得用于安全保障目的。定位误差或机械故障（如轮子卡滞或部件阻力增大）可能导致机器人驶入禁区。"
+msgstr "リスク低減を進入禁止区域だけに依存しないでください。進入禁止区域は安全性能を保証するものではなく、安全保護の目的には使用できません。位置決め誤差や機械的な故障（車輪の引っ掛かり、部品の抵抗増加など）により、ロボットが進入禁止区域に入る可能性があります。"
+
+#: ../../source/07 技术规格.rst:453
+msgid "安全触边"
+msgstr "セーフティエッジ"
+
+#: ../../source/07 技术规格.rst:455
+msgid "安全触边位于移动底盘四周，当移动底盘与外界环境发生碰撞时，触发触边信号，实现整机急停。 急停后，可长按位于升降机构背面的 **释放抱闸按钮** 3秒，指示灯蓝色常亮，恢复机器人运动。"
+msgstr ""
+"セーフティエッジは移動台車の周囲にあります。台車が周囲の物体に衝突するとエッジ信号が作動し、本体が非常停止します。非常停止後、昇降機構の背面にある **ブレーキ解除ボタン** "
+"を3秒間長押しすると、インジケーターが青色に点灯し、ロボットの動作を再開できます。"
+
+#: ../../source/07 技术规格.rst:462
+msgid "安全触边位置"
+msgstr "セーフティエッジの位置"
+
+#: ../../source/07 技术规格.rst:468
+msgid "控制面板"
+msgstr "操作パネル"
+
+#: ../../source/07 技术规格.rst:470
+msgid "控制面板位于升降机构背面的柜门上，用于通过软件操作机器人、查看机器人状态等。具体功能参考软件用户手册。"
+msgstr "操作パネルは昇降機構背面の扉にあります。ソフトウェアによるロボット操作や状態確認に使用します。機能の詳細については、ソフトウェアユーザーマニュアルを参照してください。"
+
+#: ../../source/07 技术规格.rst:476
+msgid "控制面板位置"
+msgstr "操作パネルの位置"
+
+#: ../../source/07 技术规格.rst:482
+msgid "无线手柄"
+msgstr "ワイヤレスコントローラー"
+
+#: ../../source/07 技术规格.rst:484
+msgid "Kargo配备一无线手柄，用于控制移动底盘运动，手柄通过USB接收器连接，连接范围为10m。 接收器连接至Kargo用户接口的USB接口上。位置如下："
+msgstr ""
+"Kargoには、移動台車の操作に使用するワイヤレスコントローラーが付属しています。コントローラーはUSBレシーバーで接続し、通信距離は10 "
+"mです。レシーバーをKargoのユーザーインターフェースにあるUSBポートに接続してください。位置は以下のとおりです。"
+
+#: ../../source/07 技术规格.rst:491
+msgid "手柄连接位置"
+msgstr "コントローラーの接続位置"
+
+#: ../../source/07 技术规格.rst:493
+msgid "手柄按钮定义如下："
+msgstr "コントローラーの各ボタンの機能は以下のとおりです。"
+
+#: ../../source/07 技术规格.rst:499
+msgid "手柄按钮"
+msgstr "コントローラーのボタン"
+
+#: ../../source/07 技术规格.rst:502
+msgid "1 手柄模式开关：控制Kargo底盘的运动前，需保证开关处于“D”位置。"
+msgstr "1 コントローラーモードスイッチ：Kargo台車を操作する前に、スイッチが「D」の位置にあることを確認してください。"
+
+#: ../../source/07 技术规格.rst:503
+msgid "2 Logitech按钮：手柄打开后，若长时间不操作，将进入休眠，可按下此按钮重连。"
+msgstr "2 Logitechボタン：コントローラーの電源を入れた後、長時間操作しないとスリープ状態になります。このボタンを押すと再接続できます。"
+
+#: ../../source/07 技术规格.rst:504
+msgid "3 前进：控制底盘向前运动"
+msgstr "3 前進：台車を前進させます。"
+
+#: ../../source/07 技术规格.rst:505
+msgid "4 后退：控制底盘向后运动"
+msgstr "4 後退：台車を後退させます。"
+
+#: ../../source/07 技术规格.rst:506
+msgid "5 左转：控制底盘左转弯"
+msgstr "5 左旋回：台車を左に旋回させます。"
+
+#: ../../source/07 技术规格.rst:507
+msgid "6 右转：控制底盘右转弯"
+msgstr "6 右转回：台車を右に旋回させます。"
+
+#: ../../source/07 技术规格.rst:508
+msgid "7 Y：加速，最大速度为1m/s"
+msgstr "7 Y：加速します。最高速度は1 m/sです。"
+
+#: ../../source/07 技术规格.rst:509
+msgid "8 X：减速，最小速度为0.1m/s"
+msgstr "8 X：減速します。最低速度は0.1 m/sです。"
+
+#: ../../source/07 技术规格.rst:510
+msgid "9 A：与左转或右转按钮组合使用"
+msgstr "9 A：左旋回または右旋回ボタンと組み合わせて使用します。"
+
+#: ../../source/07 技术规格.rst:512
+msgid "左转+A=左平移：控制底盘向左平移"
+msgstr "左旋回+A＝左平行移動：台車を左へ平行移動させます。"
+
+#: ../../source/07 技术规格.rst:513
+msgid "右转+A=右平移：控制底盘向右平移"
+msgstr "右旋回+A＝右平行移動：台車を右へ平行移動させます。"
+
+#: ../../source/07 技术规格.rst:518
+msgid "机械臂标定刻线"
+msgstr "ロボットアームの校正マーク"
+
+#: ../../source/07 技术规格.rst:520
+msgid "机械臂标定姿态即标定机械臂时的姿态。机械臂各关节连接处刻有标定刻线，用于机械臂换关节后的标定。当所有相邻刻线对齐时，表示机械臂处于标定姿态。"
+msgstr "ロボットアームの校正姿勢は、アームを校正するときの姿勢です。各関節の接続部には校正マークが刻まれており、関節交換後の校正に使用します。隣り合うマークがすべて揃っているとき、アームは校正姿勢にあります。"
+
+#: ../../source/07 技术规格.rst:522
+msgid "机械臂标定姿态关节角度如下。"
+msgstr "校正姿勢における各関節の角度は以下のとおりです。"
+
+#: ../../source/07 技术规格.rst:524
+msgid "标定姿态关节角度"
+msgstr "校正姿勢の関節角度"
+
+#: ../../source/07 技术规格.rst:528
+msgid "**关节一**"
+msgstr "**関節1**"
+
+#: ../../source/07 技术规格.rst:529
+msgid "**关节二**"
+msgstr "**関節2**"
+
+#: ../../source/07 技术规格.rst:530
+msgid "**关节三**"
+msgstr "**関節3**"
+
+#: ../../source/07 技术规格.rst:531
+msgid "**关节四**"
+msgstr "**関節4**"
+
+#: ../../source/07 技术规格.rst:532
+msgid "**关节五**"
+msgstr "**関節5**"
+
+#: ../../source/07 技术规格.rst:533
+msgid "**关节六**"
+msgstr "**関節6**"
+
+#: ../../source/07 技术规格.rst:534
+msgid "**关节七**"
+msgstr "**関節7**"
+
+#: ../../source/07 技术规格.rst:536 技术规格.rst:537 技术规格.rst:538 技术规格.rst:539 技术规格.rst:540 技术规格.rst:541
+#: 技术规格.rst:542
+msgid "0°"
+msgstr "0°"
+
+#: ../../source/07 技术规格.rst:544
+msgid "标定刻线位置和标定姿态如下图所示。"
+msgstr "校正マークの位置と校正姿勢を以下の図に示します。"
+
+#: ../../source/07 技术规格.rst:550
+msgid "机械臂标定姿态"
+msgstr "ロボットアームの校正姿勢"
+
+#: ../../source/07 技术规格.rst:557
+msgid "机械臂标定刻线位置"
+msgstr "ロボットアームの校正マーク位置"
+
+#: ../../source/07 技术规格.rst:563
+msgid "旋转方向"
+msgstr "回転方向"
+
+#: ../../source/07 技术规格.rst:565
+msgid "Kargo机器人共有21个自由度，各自由度旋转方向如下。"
+msgstr "Kargoロボットは合計21自由度を持ち、各自由度の回転方向は以下のとおりです。"
+
+#: ../../source/07 技术规格.rst:567
+msgid "机械臂关节旋转方向："
+msgstr "ロボットアーム関節の回転方向："
+
+#: ../../source/07 技术规格.rst:573
+msgid "机械臂关节旋转方向"
+msgstr "ロボットアーム関節の回転方向"
+
+#: ../../source/07 技术规格.rst:576
+msgid "头、颈、腰部旋转方向："
+msgstr "頭部・首部・腰部の回転方向："
+
+#: ../../source/07 技术规格.rst:582
+msgid "头、颈、腰部旋转方向"
+msgstr "頭部・首部・腰部の回転方向"
+
+#: ../../source/07 技术规格.rst:588
+msgid "机械臂奇异点"
+msgstr "ロボットアームの特異点"
+
+#: ../../source/07 技术规格.rst:590
+msgid "奇异点是以笛卡尔空间描述机械臂位置的一些固有点位，对关节运动无影响。遇到奇异点时，首先考虑该运动是否可以使用关节运动。其次，若在机械臂运动路径中间遇到奇异点，可以修改机械臂运动路径以绕过奇异点。此外，也可以通过改变机械臂安装位置或末端工具安装尺寸的方式，改变笛卡尔点位在机械臂关节空间下的描述。"
+msgstr "特異点とは、直交座標空間でロボットアームの位置を表す際に生じる固有の位置で、関節の動作自体には影響しません。特異点に遭遇した場合、まず関節動作で実行できるか検討してください。アームの経路上に特異点がある場合は、経路を変更して回避できます。また、アームの設置位置または先端ツールの取り付け寸法を変更することで、直交座標空間上の位置を関節空間で表したときの状態を変えることもできます。"
+
+#: ../../source/07 技术规格.rst:592
+msgid "当机械臂处于奇异点时，会产生以下影响："
+msgstr "ロボットアームが特異点にある場合、以下の影響が生じます。"
+
+#: ../../source/07 技术规格.rst:594
+msgid "在奇异点，机械臂会缺失一个或多个方向的运动能力。"
+msgstr "特異点では、アームが1つ以上の方向へ動けなくなることがあります。"
+
+#: ../../source/07 技术规格.rst:595
+msgid "在奇异点附近，机械臂无法找到一组合适的关节角度使TCP到达期望位置。"
+msgstr "特異点付近では、TCPを目標位置に移動させる適切な関節角度の組み合わせが見つからない場合があります。"
+
+#: ../../source/07 技术规格.rst:596
+msgid "在奇异点附近，机械臂需要较大的关节速度以达到期望的TCP速度。"
+msgstr "特異点付近では、目標TCP速度を実現するために関節速度が大きくなる場合があります。"
+
+#: ../../source/07 技术规格.rst:597
+msgid "奇异点附近的剧烈运动容易引发意外状况并缩短机械臂关节寿命。"
+msgstr "特異点付近で急激に動作すると、事故につながり、ロボットアームの関節寿命が短くなるおそれがあります。"
+
+#: ../../source/07 技术规格.rst:599
+msgid "Kargo的机械臂存在四种类型的奇异点，其描述如下："
+msgstr "Kargoのロボットアームには、以下の4種類の特異点があります。"
+
+#: ../../source/07 技术规格.rst:601
+msgid "**2关节奇异：** 当2关节角度为0°时，机械臂处于奇异状态。"
+msgstr "**関節2の特異点：** 関節2の角度が0°のとき、アームは特異状態になります。"
+
+#: ../../source/07 技术规格.rst:606
+msgid "2关节奇异姿态"
+msgstr "関節2の特異姿勢"
+
+#: ../../source/07 技术规格.rst:609
+msgid "**4关节奇异：** 当机械臂4关节角度为0°时，机械臂处于奇异状态。"
+msgstr "**関節4の特異点：** 関節4の角度が0°のとき、アームは特異状態になります。"
+
+#: ../../source/07 技术规格.rst:614
+msgid "4关节奇异姿态"
+msgstr "関節4の特異姿勢"
+
+#: ../../source/07 技术规格.rst:617
+msgid "**6关节奇异：** 当机械臂6关节为0°时，机械臂处于奇异状态。"
+msgstr "**関節6の特異点：** 関節6の角度が0°のとき、アームは特異状態になります。"
+
+#: ../../source/07 技术规格.rst:622
+msgid "6关节奇异姿态"
+msgstr "関節6の特異姿勢"
+
+#: ../../source/07 技术规格.rst:625
+msgid "**腕部奇异：** 6、7关节轴线交点位于1关节正上方时，机械臂处于奇异状态。"
+msgstr "**手首の特異点：** 関節6と関節7の軸の交点が関節1の真上にあるとき、アームは特異状態になります。"
+
+#: ../../source/07 技术规格.rst:630
+msgid "腕部奇异姿态"
+msgstr "手首の特異姿勢"
+
+#: ../../source/07 技术规格.rst:636
+msgid "底盘所需空间"
+msgstr "台車に必要なスペース"
+
+#: ../../source/07 技术规格.rst:638
+msgid "本节说明了移动底盘运动时所需的空间。"
+msgstr "本節では、移動台車の走行に必要なスペースについて説明します。"
+
+#: ../../source/07 技术规格.rst:640
+msgid "底盘直线行驶时的所需空间："
+msgstr "台車が直進するときに必要なスペース："
+
+#: ../../source/07 技术规格.rst:646
+msgid "直线行驶所需空间"
+msgstr "直進に必要なスペース"
+
+#: ../../source/07 技术规格.rst:649
+msgid "底盘90°转弯时的所需空间："
+msgstr "台車が90°旋回するときに必要なスペース："
+
+#: ../../source/07 技术规格.rst:655
+msgid "90°转弯所需空间"
+msgstr "90°旋回に必要なスペース"
+
+#: ../../source/07 技术规格.rst:658
+msgid "底盘驶过过道时的所需空间："
+msgstr "台車が通路を通過するときに必要なスペース："
+
+#: ../../source/07 技术规格.rst:664
+msgid "驶过过道所需空间"
+msgstr "通路通過に必要なスペース"
+
+#: ../../source/07 技术规格.rst:667
+msgid "两台底盘交错驶过时的所需空间："
+msgstr "2台の台車がすれ違うときに必要なスペース："
+
+#: ../../source/07 技术规格.rst:673
+msgid "交错驶过所需空间"
+msgstr "すれ違いに必要なスペース"
+
+#: ../../source/07 技术规格.rst:676
+msgid "底盘旋转时的所需空间："
+msgstr "台車が旋回するときに必要なスペース："
+
+#: ../../source/07 技术规格.rst:682
+msgid "旋转所需空间"
+msgstr "旋回に必要なスペース"
+
+#: ../../source/07 技术规格.rst:688
+msgid "坐标系"
+msgstr "座標系"
+
+#: ../../source/07 技术规格.rst:693
+msgid "机械臂坐标系"
+msgstr "ロボットアームの座標系"
+
+#: ../../source/07 技术规格.rst:695
+msgid "机械臂有两个坐标系，分别为基座坐标系和末端法兰坐标系。"
+msgstr "ロボットアームには、ベース座標系とエンドフランジ座標系の2つの座標系があります。"
+
+#: ../../source/07 技术规格.rst:697
+msgid "基座坐标系以机械臂的底座中心为原点，正装情况下，底座垂直指向机械臂的方向为Z+，底座中心与机械臂连接线的接口的连线方向为Y-，根据右手坐标系定则得到X+，如下图所示。"
+msgstr "ベース座標系の原点はロボットアームのベース中心です。標準設置では、ベースからアームへ垂直に向かう方向がZ+、ベース中心からアーム接続ケーブルのコネクターへ向かう方向がY−です。右手系に従ってX+が定まります。以下の図を参照してください。"
+
+#: ../../source/07 技术规格.rst:703
+msgid "机械臂基座坐标系"
+msgstr "ロボットアームのベース座標系"
+
+#: ../../source/07 技术规格.rst:706
+msgid "末端法兰坐标系为以机械臂末端法兰中心为坐标系原点，法兰端面向Z+，法兰中心与TIO连线方向为Y-，根据右手坐标系定则得到X+，如下图所示。"
+msgstr "エンドフランジ座標系の原点はロボットアームのエンドフランジ中心です。フランジ端面の向きがZ+、フランジ中心からTIOへ向かう方向がY−です。右手系に従ってX+が定まります。以下の図を参照してください。"
+
+#: ../../source/07 技术规格.rst:712
+msgid "机械臂末端法兰坐标系"
+msgstr "ロボットアームのエンドフランジ座標系"
+
+#: ../../source/07 技术规格.rst:718 技术规格.rst:726
+msgid "移动底盘坐标系"
+msgstr "移動台車の座標系"
+
+#: ../../source/07 技术规格.rst:720
+msgid "移动底盘坐标系以底盘中心为原点，正放情况下，底盘垂直指向升降机构的方向为Z+，底盘中心指向充电线接口的连线方向为X-，根据右手坐标系定则得到Y+，如下图所示。"
+msgstr "移動台車座標系の原点は台車の中心です。標準設置では、台車から昇降機構へ垂直に向かう方向がZ+、台車中心から充電ケーブルコネクターへ向かう方向がX−です。右手系に従ってY+が定まります。以下の図を参照してください。"
+

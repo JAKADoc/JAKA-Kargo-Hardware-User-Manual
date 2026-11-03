@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, JAKA Robotics
+# This file is distributed under the same license as the JAKA Kargo 硬件用户手册
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: JAKA Kargo 硬件用户手册 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-03 10:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/06-1 快速入门.rst:4 快速入门.rst:6
+msgid "快速入门"
+msgstr "クイックスタート"
+
+#: ../../source/06-1 快速入门.rst:10
+msgid "**序号**"
+msgstr "**番号**"
+
+#: ../../source/06-1 快速入门.rst:11
+msgid "**操作**"
+msgstr "**操作**"
+
+#: ../../source/06-1 快速入门.rst:12
+msgid "**参考**"
+msgstr "**参照先**"
+
+#: ../../source/06-1 快速入门.rst:14
+msgid "1"
+msgstr "1"
+
+#: ../../source/06-1 快速入门.rst:15
+msgid "拆开机器人包装，并取出机器人。"
+msgstr "梱包を開封し、ロボットを取り出します。"
+
+#: ../../source/06-1 快速入门.rst:19
+msgid "如后续有再次运输需求，请务必保存好原包装。"
+msgstr "再輸送する場合に備えて、元の梱包材を必ず保管してください。"
+
+#: ../../source/06-1 快速入门.rst:21
+msgid "参考 :ref:`拆包及搬运`"
+msgstr "参照 :ref:`拆包及搬运`"
+
+#: ../../source/06-1 快速入门.rst:23
+msgid "2"
+msgstr "2"
+
+#: ../../source/06-1 快速入门.rst:24
+msgid "安装末端工具至机械臂（如需）。"
+msgstr "必要に応じて、ロボットアームにエンドエフェクターを取り付けます。"
+
+#: ../../source/06-1 快速入门.rst:25
+msgid "参考 :ref:`末端执行器安装`"
+msgstr "参照 :ref:`末端执行器安装`"
+
+#: ../../source/06-1 快速入门.rst:27
+msgid "3"
+msgstr "3"
+
+#: ../../source/06-1 快速入门.rst:28
+msgid "打开移动底盘左侧的电池仓，拨动电源开关，使其处于 **I** 位置。"
+msgstr "移動台車の左側にあるバッテリー収納部を開き、電源スイッチを **I** の位置にします。"
+
+#: ../../source/06-1 快速入门.rst:29
+msgid "参考 :ref:`启动机器人`"
+msgstr "参照 :ref:`启动机器人`"
+
+#: ../../source/06-1 快速入门.rst:31
+msgid "4"
+msgstr "4"
+
+#: ../../source/06-1 快速入门.rst:32
+msgid "按下升降机构背面的电源按钮，整机指示灯青色呼吸，此时，系统上电完成。"
+msgstr "昇降機構の背面にある電源ボタンを押します。本体のインジケーターがシアン色で呼吸点滅すると、システムの電源投入は完了です。"
+
+#: ../../source/06-1 快速入门.rst:33
+msgid "参考 :ref:`整机按钮`"
+msgstr "参照 :ref:`整机按钮`"
+
+#: ../../source/06-1 快速入门.rst:35
+msgid "5"
+msgstr "5"
+
+#: ../../source/06-1 快速入门.rst:36
+msgid "连接Wi-Fi：将控制设备的网络连接至机器人网络，机器人网络默认名称为机器人序列号，默认密码为jakazuadmin。"
+msgstr "Wi-Fiに接続します。操作端末をロボットのネットワークに接続してください。ネットワーク名の初期設定はロボットのシリアル番号、パスワードの初期設定は「jakazuadmin」です。"
+
+#: ../../source/06-1 快速入门.rst:37
+msgid "参考软件用户手册"
+msgstr "ソフトウェアユーザーマニュアルを参照してください。"
+
+#: ../../source/06-1 快速入门.rst:39
+msgid "6"
+msgstr "6"
+
+#: ../../source/06-1 快速入门.rst:40
+msgid "连接机器人：有以下两种版本的软件供使用"
+msgstr "ロボットに接続します。ソフトウェアは次の2つのバージョンを利用できます。"
+
+#: ../../source/06-1 快速入门.rst:42
+msgid "App版：下载并打开JAKA |软件| ，连接机器人。"
+msgstr "アプリ版：JAKA |软件| をダウンロードして起動し、ロボットに接続します。"
+
+#: ../../source/06-1 快速入门.rst:43
+msgid "网页版：打开浏览器，输入所连接WifiIP，进入 |软件| 登录界面，连接机器人。"
+msgstr "Web版：ブラウザーを開き、接続先のWi-Fi IPアドレスを入力します。|软件| のログイン画面でロボットに接続します。"
+
+#: ../../source/06-1 快速入门.rst:45
+msgid "参考"
+msgstr "参照"
+
+#: ../../source/06-1 快速入门.rst:47
+msgid ":ref:`用户接口`"
+msgstr ":ref:`用户接口`"
+
+#: ../../source/06-1 快速入门.rst:48
+msgid "软件用户手册"
+msgstr "ソフトウェアユーザーマニュアル"
+
