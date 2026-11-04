@@ -28,9 +28,9 @@ else:
 MANUAL_CONFIG = {
     # 项目元数据：改名称、版本或版权方时，只改此处相应字段。
     "project_titles": {
-        "zh": "{company_name} {product_name} 硬件用户手册",
-        "en": "{company_name} {product_name} Hardware User Manual",
-        "ja": "{product_name} ハードウェアユーザーマニュアル",
+        "zh": "JAKA {product_name} 硬件用户手册",
+        "en": "JAKA {product_name} Hardware User Manual",
+        "ja": "JAKA {product_name} ハードウェアユーザーマニュアル",
     },
     "company_name": "JAKA Robotics",
     "copyright_year": "2026",
@@ -258,6 +258,13 @@ if latex_backcover_input:
     \cleardoublepage
     ''' + latex_backcover_input
 
+# 日文目录的全角章节编号需要更宽的编号栏；其他语言沿用原宽度。
+TOC_NUMBER_WIDTHS = (
+    ("5.5em", "4.5em", "5.5em", "6.5em")
+    if BUILD_LANG == "ja"
+    else ("2.8em", "3.2em", "4.2em", "5.0em")
+)
+
 latex_elements = {
 
     'papersize': 'a4paper',
@@ -441,9 +448,23 @@ r'''
     \renewcommand{\footrulewidth}{0.4pt}
 }
 
-% 文档开始时，让章节首页的 plain 页式沿用 normal 页式。
+% upLaTeX 的 ujbook 章节首页调用 jpl@in，单独定义为正文页眉页脚。
+\fancypagestyle{jpl@in}{
+    \fancyhf{}
+    ''' + LATEX_HEADER_LOGO_TEX + r'''
+    \fancyhead[R]{\nouppercase{\leftmark}}
+    \fancyfoot[L]{''' + TEXT["version"] + r''' \docversion}
+    \fancyfoot[C]{\thepage/\pageref*{LastNumberedPage}}
+    \fancyfoot[R]{\docname}
+    \renewcommand{\headrulewidth}{0.4pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+}
+
+% 文档开始时，让 plain 页式沿用正文 normal 页式。
 \makeatletter
-\AtBeginDocument{\let\ps@plain\ps@normal}
+\AtBeginDocument{
+    \let\ps@plain\ps@normal
+}
 \makeatother
 
 % 正文前目录页：只显示当前罗马页码，不显示总页数。
@@ -545,6 +566,8 @@ citecolor=blue
      \interlinepenalty\@M
      \leavevmode
      \@tempdima #3\relax
+     % ujbook の \numberline は \@lnumwidth を参照する。
+     \@ifundefined{@lnumwidth}{}{\@lnumwidth #3\relax}
      \advance\leftskip \@tempdima
      \null\nobreak\hskip -\@tempdima
      {#4}\nobreak
@@ -559,12 +582,12 @@ citecolor=blue
   \addvspace{0.6em}%
   \begingroup
     \bfseries
-    \@dottedtocline{0}{0em}{2.8em}{#1}{#2}%
+    \@dottedtocline{0}{0em}{''' + TOC_NUMBER_WIDTHS[0] + r'''}{#1}{#2}%
   \endgroup
 }
-\renewcommand*\l@section[2]{\Manualdottedtocline{1}{1.8em}{3.2em}{#1}{#2}}
-\renewcommand*\l@subsection[2]{\Manualdottedtocline{2}{5.0em}{4.2em}{#1}{#2}}
-\renewcommand*\l@subsubsection[2]{\Manualdottedtocline{3}{9.2em}{5.0em}{#1}{#2}}
+\renewcommand*\l@section[2]{\Manualdottedtocline{1}{1.8em}{''' + TOC_NUMBER_WIDTHS[1] + r'''}{#1}{#2}}
+\renewcommand*\l@subsection[2]{\Manualdottedtocline{2}{5.0em}{''' + TOC_NUMBER_WIDTHS[2] + r'''}{#1}{#2}}
+\renewcommand*\l@subsubsection[2]{\Manualdottedtocline{3}{9.2em}{''' + TOC_NUMBER_WIDTHS[3] + r'''}{#1}{#2}}
 \renewcommand*\l@figure{\@dottedtocline{1}{1.5em}{3em}}
 \renewcommand*\l@table{\@dottedtocline{1}{1.5em}{3em}}
 \makeatother
